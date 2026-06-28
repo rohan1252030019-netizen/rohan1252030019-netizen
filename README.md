@@ -12,31 +12,31 @@
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=rohan-kokatare&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=rohan1252030019-netizen&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/rohan-kokatare?color=6C63FF&label=FOLLOWERS&logo=github&style=for-the-badge" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/rohan1252030019-netizen?color=6C63FF&label=FOLLOWERS&logo=github&style=for-the-badge" alt="Followers"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Cybersecurity-6C63FF?style=for-the-badge" alt="Focus"/>
 </p>
 
 <!-- SOCIAL BADGES -->
 <p>
-  <a href="https://linkedin.com/in/rohan-kokatare" target="_blank">
+  <a href="https://linkedin.com/in/rohan1252030019-netizen" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:rohan.1252030019@vit.edu" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://rohan-kokatare.dev" target="_blank">
+  <a href="https://rohan1252030019-netizen.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://tryhackme.com/p/rohan-kokatare" target="_blank">
+  <a href="https://tryhackme.com/p/rohan1252030019-netizen" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
   </a>
-  <a href="https://app.hackthebox.com/profile/rohan-kokatare" target="_blank">
+  <a href="https://app.hackthebox.com/profile/rohan1252030019-netizen" target="_blank">
     <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox"/>
   </a>
-  <a href="https://leetcode.com/rohan-kokatare" target="_blank">
+  <a href="https://leetcode.com/rohan1252030019-netizen" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://instagram.com/rohan.kokatare" target="_blank">
@@ -51,7 +51,7 @@
 ## `> whoami`
 
 ```python
-class rohan-kokatare:
+class rohan1252030019-netizen:
 
     name        = "Rohan Kokatare"
     role        = ["AI Engineer", "Cybersecurity Engineer", "Full Stack Developer", "Ethical Hacker"]
@@ -205,12 +205,12 @@ class rohan-kokatare:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohan-kokatare&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub+Statistics" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-kokatare&theme=midnight-purple&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohan1252030019-netizen&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub+Statistics" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan1252030019-netizen&theme=midnight-purple&hide_border=true" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-kokatare&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan1252030019-netizen&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
 
@@ -219,7 +219,7 @@ class rohan-kokatare:
 ## `> activity_graph`
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-kokatare&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true&custom_title=Contribution+Activity" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohan1252030019-netizen&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true&custom_title=Contribution+Activity" />
 </div>
 
 ---
@@ -227,7 +227,7 @@ class rohan-kokatare:
 ## `> trophies`
 
 <div align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=rohan-kokatare&theme=darkhub&no-frame=true&column=7&margin-w=8" />
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=rohan1252030019-netizen&theme=darkhub&no-frame=true&column=7&margin-w=8" />
 </div>
 
 ---
@@ -236,9 +236,9 @@ class rohan-kokatare:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohan-kokatare/rohan-kokatare/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohan-kokatare/rohan-kokatare/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rohan-kokatare/rohan-kokatare/output/github-contribution-grid-snake-dark.svg" width="98%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohan1252030019-netizen/rohan1252030019-netizen/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohan1252030019-netizen/rohan1252030019-netizen/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rohan1252030019-netizen/rohan1252030019-netizen/output/github-contribution-grid-snake-dark.svg" width="98%"/>
   </picture>
 </div>
 
@@ -247,8 +247,8 @@ class rohan-kokatare:
 ## `> github_metrics`
 
 <div align="center">
-  <img width="49%" src="https://metrics.lecoq.io/rohan-kokatare?template=classic&base=header%2C+activity%2C+community%2C+repositories%2C+metadata&config.timezone=Asia%2FKolkata" />
-  <img width="49%" src="https://metrics.lecoq.io/rohan-kokatare?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata" />
+  <img width="49%" src="https://metrics.lecoq.io/rohan1252030019-netizen?template=classic&base=header%2C+activity%2C+community%2C+repositories%2C+metadata&config.timezone=Asia%2FKolkata" />
+  <img width="49%" src="https://metrics.lecoq.io/rohan1252030019-netizen?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata" />
 </div>
 
 ---
@@ -277,8 +277,8 @@ class rohan-kokatare:
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-[![Demo](https://img.shields.io/badge/Live%20Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://immunex.rohan-kokatare.dev)
-[![Repository](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan-kokatare/immunex)
+[![Demo](https://img.shields.io/badge/Live%20Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://immunex.rohan1252030019-netizen.dev)
+[![Repository](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan1252030019-netizen/immunex)
 
 ---
 
@@ -302,8 +302,8 @@ class rohan-kokatare:
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-[![Demo](https://img.shields.io/badge/Live%20Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://sentinel.rohan-kokatare.dev)
-[![Repository](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan-kokatare/sentinel-swarm-ai)
+[![Demo](https://img.shields.io/badge/Live%20Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://sentinel.rohan1252030019-netizen.dev)
+[![Repository](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan1252030019-netizen/sentinel-swarm-ai)
 
 ---
 
@@ -327,8 +327,8 @@ class rohan-kokatare:
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
 
-[![Demo](https://img.shields.io/badge/Live%20Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ragsmith.rohan-kokatare.dev)
-[![Repository](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan-kokatare/ragsmith)
+[![Demo](https://img.shields.io/badge/Live%20Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ragsmith.rohan1252030019-netizen.dev)
+[![Repository](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan1252030019-netizen/ragsmith)
 
 ---
 
@@ -351,7 +351,7 @@ class rohan-kokatare:
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
 </p>
 
-[![Repository](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan-kokatare/kernellab)
+[![Repository](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan1252030019-netizen/kernellab)
 
 ---
 
@@ -374,7 +374,7 @@ class rohan-kokatare:
 </p>
 
 [![Demo](https://img.shields.io/badge/Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/headmouse-demo)
-[![Repository](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan-kokatare/headmouse)
+[![Repository](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan1252030019-netizen/headmouse)
 
 ---
 
@@ -397,8 +397,8 @@ class rohan-kokatare:
 <img src="https://img.shields.io/badge/Tesseract-3776AB?style=flat-square&logoColor=white"/>
 </p>
 
-[![Demo](https://img.shields.io/badge/Live%20Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://scanbook.rohan-kokatare.dev)
-[![Repository](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan-kokatare/scanbook)
+[![Demo](https://img.shields.io/badge/Live%20Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://scanbook.rohan1252030019-netizen.dev)
+[![Repository](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan1252030019-netizen/scanbook)
 
 </div>
 
@@ -429,7 +429,7 @@ class rohan-kokatare:
 
 **LeetCode**
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rohan-kokatare)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rohan1252030019-netizen)
 
 Consistent DSA practice<br/>
 Focus: Arrays · Graphs · DP
@@ -439,7 +439,7 @@ Focus: Arrays · Graphs · DP
 
 **Codeforces**
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rohan-kokatare)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rohan1252030019-netizen)
 
 Competitive Programming<br/>
 Rating: Pupil → Specialist
@@ -449,7 +449,7 @@ Rating: Pupil → Specialist
 
 **CodeChef**
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/rohan-kokatare)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/rohan1252030019-netizen)
 
 Monthly Challenges<br/>
 Long & Cook-Off Rounds
@@ -472,7 +472,7 @@ Long & Cook-Off Rounds
 
 **TryHackMe**
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/rohan-kokatare)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/rohan1252030019-netizen)
 
 Active in top percentile<br/>
 Paths: SOC Analyst · Jr Pentester · OWASP Top 10
@@ -482,7 +482,7 @@ Paths: SOC Analyst · Jr Pentester · OWASP Top 10
 
 **HackTheBox**
 
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/rohan-kokatare)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/rohan1252030019-netizen)
 
 Active machine solver<br/>
 Focus: Web · Linux · Active Directory
@@ -646,13 +646,13 @@ Q4 2026  ████░░░░░░░░░░  Research Paper Submission +
 <td align="center">
 
 **Portfolio**<br/>
-[rohan-kokatare.dev](https://rohan-kokatare.dev)
+[rohan1252030019-netizen.dev](https://rohan1252030019-netizen.dev)
 
 </td>
 <td align="center">
 
 **LinkedIn**<br/>
-[linkedin.com/in/rohan-kokatare](https://linkedin.com/in/rohan-kokatare)
+[linkedin.com/in/rohan1252030019-netizen](https://linkedin.com/in/rohan1252030019-netizen)
 
 </td>
 <td align="center">
@@ -666,13 +666,13 @@ Q4 2026  ████░░░░░░░░░░  Research Paper Submission +
 <td align="center">
 
 **TryHackMe**<br/>
-[tryhackme.com/p/rohan-kokatare](https://tryhackme.com/p/rohan-kokatare)
+[tryhackme.com/p/rohan1252030019-netizen](https://tryhackme.com/p/rohan1252030019-netizen)
 
 </td>
 <td align="center">
 
 **HackTheBox**<br/>
-[hackthebox.com/profile](https://app.hackthebox.com/profile/rohan-kokatare)
+[hackthebox.com/profile](https://app.hackthebox.com/profile/rohan1252030019-netizen)
 
 </td>
 <td align="center">
@@ -698,8 +698,8 @@ Q4 2026  ████░░░░░░░░░░  Research Paper Submission +
 
 If my work has helped you, a star on any repo means a lot.
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/rohan-kokatare)
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/rohan-kokatare)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/rohan1252030019-netizen)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/rohan1252030019-netizen)
 
 </div>
 
