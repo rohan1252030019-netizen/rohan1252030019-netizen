@@ -1,144 +1,123 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:16213e,100:0f3460&height=200&section=header&text=ROHAN%20KOKATARE&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Cybersecurity%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=16&descAlignY=60&animation=twinkling" />
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                   CYBER HEADER BANNER                  -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<!-- TYPING SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0a0a0a,50:0d1117,75:001a0d,100:00ff4120&height=220&section=header&text=ROHAN%20KOKATARE&fontSize=52&fontColor=00ff88&fontAlignY=40&desc=%5B%20AI%20Engineer%20%5D%20%5B%20Cybersecurity%20Engineer%20%5D%20%5B%20Ethical%20Hacker%20%5D%20%5B%20Full%20Stack%20Developer%20%5D&descSize=13&descAlignY=62&descColor=00d4ff&animation=twinkling" />
+
+<!-- TYPING SVG — CYBER TERMINAL STYLE -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&width=650&lines=Building+AI+Systems+That+Matter;Securing+the+Digital+Frontier;Crafting+Full+Stack+Experiences;Ethical+Hacker+%7C+Open+Source+Contributor;B.Tech+CSE+%7C+AI+%26+ML+%7C+VIT+Pune" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=00FF88&center=true&vCenter=true&width=680&lines=%24+whoami+--+AI+%26+Cybersecurity+Engineer;Building+AI-Powered+Security+Systems;Cybersecurity+Researcher+%7C+Ethical+Hacker;RAG+Systems+Builder+%7C+LLM+Engineer;Web+App+Penetration+Tester;Python+Developer+%7C+Linux+Power+User;Open+Source+Contributor" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=rohan1252030019-netizen&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/rohan1252030019-netizen?color=6C63FF&label=FOLLOWERS&logo=github&style=for-the-badge" alt="Followers"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Cybersecurity-6C63FF?style=for-the-badge" alt="Focus"/>
-</p>
+<!-- VISITOR COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=rohan1252030019-netizen&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/rohan1252030019-netizen?color=00ff88&label=FOLLOWERS&logo=github&style=for-the-badge&labelColor=0d1117" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-00ff88?style=for-the-badge&labelColor=0d1117" alt="Status"/>
 
-<!-- SOCIAL BADGES -->
-<p>
-  <a href="https://linkedin.com/in/rohan1252030019-netizen" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:rohan.1252030019@vit.edu" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://rohan1252030019-netizen.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://tryhackme.com/p/rohan1252030019-netizen" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
-  </a>
-  <a href="https://app.hackthebox.com/profile/rohan1252030019-netizen" target="_blank">
-    <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox"/>
-  </a>
-  <a href="https://leetcode.com/rohan1252030019-netizen" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://instagram.com/rohan.kokatare" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+<br/><br/>
+
+<!-- SOCIAL LINKS -->
+<a href="https://github.com/rohan1252030019-netizen">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&color=0d1117" />
+</a>
+<a href="https://www.linkedin.com/in/rohan-kokatare/">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff&color=0d1117" />
+</a>
+<a href="https://www.instagram.com/chiku_ronnnn/">
+  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ff006e&color=0d1117" />
+</a>
+<a href="mailto:rohan.1252030019@vit.edu">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88&color=0d1117" />
+</a>
 
 </div>
 
----
+<br/>
 
-## `> whoami`
-
-```python
-class rohan1252030019-netizen:
-
-    name        = "Rohan Kokatare"
-    role        = ["AI Engineer", "Cybersecurity Engineer", "Full Stack Developer", "Ethical Hacker"]
-    education   = "B.Tech CSE (AI & ML) — Vishwakarma Institute of Technology (VIT), Pune"
-    location    = "India"
-
-    currently_building = [
-        "AI-powered security systems",
-        "RAG pipelines for enterprise intelligence",
-        "SOC automation tooling",
-        "Full-stack AI products"
-    ]
-
-    currently_learning = [
-        "Advanced LLM fine-tuning & RLHF",
-        "Malware reverse engineering",
-        "Agentic AI frameworks (LangGraph, CrewAI)",
-        "Cloud-native security (AWS, GCP)",
-    ]
-
-    ask_me_about = [
-        "Machine Learning", "LLMs", "RAG Systems",
-        "Penetration Testing", "Web Security", "SOC",
-        "React", "Next.js", "Node.js", "TypeScript"
-    ]
-
-    fun_facts = [
-        "I think in systems, not in lines of code",
-        "Grep is my best friend at 2 AM",
-        "I've broken more things than I've built — intentionally",
-        "Coffee → Code → Commit → Repeat"
-    ]
-
-    goal_2026 = "Land at a top AI/Security company & publish research"
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  SYSTEM INIT  >>>  Rohan Kokatare — Cyber Profile v2.0                     ║
+║  NODE: VIT Pune, India  |  CLEARANCE: AI + Cybersecurity + Full Stack      ║
+║  MISSION: Build AI systems that secure the digital world                   ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## `> current_focus`
+## `[01]` OPERATOR PROFILE
 
-<table>
-<tr>
-<td width="50%">
+```python
+#!/usr/bin/env python3
+# operator_profile.py
 
-**Building**
-- 🛡️ **SOC Dashboard** — Real-time threat monitoring platform
-- 🤖 **AI Security Copilot** — LLM-powered security analyst
-- 🧬 **Threat Intelligence Platform** — Automated threat correlation
-- 🦠 **Malware Analysis Sandbox** — Dynamic behavioral analysis
+class RohanKokatare:
 
-</td>
-<td width="50%">
+    callsign     = "netizen"
+    name         = "Rohan Kokatare"
+    clearance    = ["AI Engineer", "Cybersecurity Engineer", "Ethical Hacker", "Full Stack Developer"]
+    base         = "Vishwakarma Institute of Technology (VIT), Pune — B.Tech CSE (AI & ML)"
 
-**Learning**
-- 🧠 LLM Agents & Tool Use (LangGraph, CrewAI)
-- 🔐 OSCP Certification Preparation
-- ☁️ AWS Security Specialty
-- 📊 MLOps & Model Deployment at Scale
+    current_ops  = [
+        "Building AI-powered threat detection systems",
+        "Designing multi-agent security architectures",
+        "Researching RAG systems for enterprise intelligence",
+        "Web application penetration testing",
+        "SOC fundamentals & threat hunting",
+    ]
 
-</td>
-</tr>
-</table>
+    arsenal      = {
+        "AI"       : ["LLMs", "RAG", "LangChain", "HuggingFace", "PyTorch", "TensorFlow"],
+        "Security" : ["Burp Suite", "Nmap", "Wireshark", "Metasploit", "Wifite", "Kali Linux"],
+        "FullStack": ["React", "Next.js", "Node.js", "FastAPI", "TypeScript"],
+        "Scripting": ["Python", "Bash", "Linux"],
+    }
+
+    currently_learning = [
+        "OSCP certification path",
+        "Malware analysis & reverse engineering",
+        "LLM agent frameworks — LangGraph, CrewAI",
+        "AWS cloud security",
+    ]
+
+    ask_me_about = [
+        "Web App Pentesting", "LLMs & RAG", "Kali Linux",
+        "AI Security Systems", "Python Automation", "Full Stack Dev"
+    ]
+
+    status       = "open_to_opportunities = True"
+```
 
 ---
 
-## `> tech_stack`
+## `[02]` CYBER COMMAND — TECH ARSENAL
 
 <details open>
-<summary><b>🧠 Artificial Intelligence & Machine Learning</b></summary>
+<summary><b>&gt;&gt; AI / ML / LLM</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-6C63FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-00ff88?style=for-the-badge&logo=langchain&logoColor=black"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-6C63FF?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-00d4ff?style=for-the-badge&logo=openai&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-00ff88?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-0d1117?style=for-the-badge&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/RAG_Systems-00d4ff?style=for-the-badge&logoColor=black"/>
 </p>
 </details>
 
 <details open>
-<summary><b>💻 Programming Languages</b></summary>
+<summary><b>&gt;&gt; PROGRAMMING LANGUAGES</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,cpp,bash&theme=dark" />
@@ -146,7 +125,7 @@ class rohan1252030019-netizen:
 </details>
 
 <details open>
-<summary><b>🌐 Frontend Development</b></summary>
+<summary><b>&gt;&gt; FRONTEND</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark" />
@@ -154,7 +133,7 @@ class rohan1252030019-netizen:
 </details>
 
 <details open>
-<summary><b>⚙️ Backend Development</b></summary>
+<summary><b>&gt;&gt; BACKEND</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,express&theme=dark" />
@@ -162,21 +141,24 @@ class rohan1252030019-netizen:
 </details>
 
 <details open>
-<summary><b>🔐 Cybersecurity</b></summary>
+<summary><b>&gt;&gt; CYBERSECURITY TOOLKIT</b></summary>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-004088?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Wifite-0d1117?style=for-the-badge&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00ff88"/>
 </p>
 </details>
 
 <details open>
-<summary><b>🗄️ Databases</b></summary>
+<summary><b>&gt;&gt; DATABASES</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite&theme=dark" />
@@ -184,533 +166,425 @@ class rohan1252030019-netizen:
 </details>
 
 <details open>
-<summary><b>☁️ DevOps & Cloud</b></summary>
+<summary><b>&gt;&gt; DEVOPS & CLOUD</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,gcp,nginx&theme=dark" />
 </p>
 </details>
 
-<details open>
-<summary><b>🛠️ Tools & Platforms</b></summary>
+<details>
+<summary><b>&gt;&gt; OPERATING SYSTEMS & TOOLS</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,neovim,postman,figma,notion&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,vscode,neovim,postman,figma&theme=dark" />
 </p>
 </details>
 
 ---
 
-## `> github_stats`
+## `[03]` THREAT INTELLIGENCE — CYBERSECURITY
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│  CYBERSECURITY DOMAIN COVERAGE                              [ACTIVE]   │
+├────────────────────────────────────────────────────────────────────────┤
+│                                                                        │
+│  WEB APPLICATION SECURITY    ████████████░░░  OWASP Top 10            │
+│  NETWORK SECURITY            █████████░░░░░░  Nmap, Wireshark         │
+│  PENETRATION TESTING         ████████░░░░░░░  Burp Suite, Metasploit  │
+│  SOC FUNDAMENTALS            ███████░░░░░░░░  Splunk, SIEM            │
+│  LINUX SECURITY              █████████████░░  Kali, Ubuntu            │
+│  WIFI SECURITY               ████████░░░░░░░  Wifite, Aircrack-ng     │
+│  DIGITAL FORENSICS           ████░░░░░░░░░░░  Learning                │
+│  THREAT HUNTING              ████░░░░░░░░░░░  In Progress             │
+│                                                                        │
+└────────────────────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohan1252030019-netizen&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub+Statistics" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan1252030019-netizen&theme=midnight-purple&hide_border=true" />
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Offensive Security**
+- Web Application Pentesting
+- Network Reconnaissance
+- Vulnerability Assessment
+- Exploit Development (basics)
+- WiFi Security Testing
+- OWASP Top 10 exploitation
+
+</td>
+<td width="50%" valign="top">
+
+**Defensive Security**
+- SOC Fundamentals
+- Log Analysis & SIEM
+- Threat Hunting Basics
+- Incident Response
+- Digital Forensics (Learning)
+- Security Automation with Python
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan1252030019-netizen&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8" />
+**Active Platforms**
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/rohan1252030019-netizen)
+&nbsp;
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/rohan1252030019-netizen)
 
 </div>
 
 ---
 
-## `> activity_graph`
+## `[04]` MISSION FILES — PROJECTS
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohan1252030019-netizen&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true&custom_title=Contribution+Activity" />
+
+---
+
+### `PROJECT_01` — IMMUNEX
+
+**`[ AI-POWERED BANKING FRAUD DETECTION ]`**
+
+> Enterprise-grade AI system for real-time transaction fraud detection and automated document verification in banking workflows.
+
+| Module | Capability |
+|---|---|
+| Fraud Engine | Real-time transaction scoring via ensemble ML models |
+| Document Verification | Forgery detection using CNN + OCR pipeline |
+| Compliance Layer | Explainable AI dashboard for audit & compliance |
+| Security API | JWT-authenticated REST API with rate limiting |
+
+**Key Features**
+- Real-time fraud scoring on live transaction streams
+- Document authenticity verification (ID, PAN, Aadhaar)
+- Explainable AI with LIME/SHAP for compliance reporting
+- Containerized microservices architecture
+
+<p>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED"/>
+</p>
+
+[![View Repository](https://img.shields.io/badge/%5B_VIEW_REPOSITORY_%5D-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rohan1252030019-netizen/immunex)
+
+---
+
+### `PROJECT_02` — SENTINEL SWARM AI
+
+**`[ MULTI-AGENT CYBERSECURITY INTELLIGENCE SYSTEM ]`**
+
+> Autonomous swarm of AI agents for coordinated threat detection, vulnerability scanning, and automated incident response.
+
+| Agent | Role |
+|---|---|
+| Recon Agent | Network discovery & attack surface mapping |
+| Analysis Agent | CVE correlation & threat scoring |
+| Response Agent | Automated remediation & containment |
+| Report Agent | Incident documentation & forensic timeline |
+
+**Key Features**
+- Coordinated multi-agent swarm for parallel threat analysis
+- Real-time CVE correlation with NVD feeds
+- Automated incident response playbooks
+- Forensic report generation with timeline reconstruction
+
+<p>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=langchain&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/CrewAI-0d1117?style=flat-square&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED"/>
+</p>
+
+[![View Repository](https://img.shields.io/badge/%5B_VIEW_REPOSITORY_%5D-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rohan1252030019-netizen/sentinel-swarm-ai)
+
+---
+
+### `PROJECT_03` — RAGSMITH
+
+**`[ PRODUCTION RAG PIPELINE EVALUATION FRAMEWORK ]`**
+
+> End-to-end framework for building, testing and benchmarking Retrieval-Augmented Generation pipelines with automated LLM-as-judge evaluation.
+
+| Component | Function |
+|---|---|
+| Pipeline Builder | Modular chunking, embedding & retrieval config |
+| Evaluation Suite | RAGAS metrics, faithfulness, hallucination detection |
+| Benchmarking | Embedding model & vector store comparison engine |
+| CI/CD Interface | REST API + CLI for pipeline testing automation |
+
+**Key Features**
+- Plug-and-play RAG pipeline construction
+- Multi-metric automated evaluation (RAGAS, BERTScore)
+- Side-by-side benchmarking of models and retrievers
+- REST API for CI/CD integration
+
+<p>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/ChromaDB-0d1117?style=flat-square&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>
+</p>
+
+[![View Repository](https://img.shields.io/badge/%5B_VIEW_REPOSITORY_%5D-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rohan1252030019-netizen/ragsmith)
+
+---
+
+### `PROJECT_04` — KERNELLAB
+
+**`[ LINUX KERNEL SECURITY RESEARCH ENVIRONMENT ]`**
+
+> Containerized Linux kernel security research lab for vulnerability research, exploit development study, and OS internals analysis.
+
+| Module | Purpose |
+|---|---|
+| Debug Environment | GDB + QEMU + pwndbg pre-configured setup |
+| Exploit Templates | Kernel vulnerability class templates (UAF, OOB, etc.) |
+| Mitigation Analysis | KASLR, SMEP, SMAP bypass analysis |
+| CVE Lab | Documented kernel CVE reproduction |
+
+**Key Features**
+- Zero-setup kernel debugging environment via Docker
+- Template exploits for common kernel vulnerability classes
+- Automated mitigation bypass analysis scripts
+- Educational kernel CVE writeups
+
+<p>
+<img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25"/>
+<img src="https://img.shields.io/badge/GDB-0d1117?style=flat-square&logoColor=00ff88"/>
+</p>
+
+[![View Repository](https://img.shields.io/badge/%5B_VIEW_REPOSITORY_%5D-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rohan1252030019-netizen/kernellab)
+
+---
+
+### `PROJECT_05` — HEADMOUSE
+
+**`[ COMPUTER VISION ACCESSIBILITY SYSTEM ]`**
+
+> Real-time, head-gesture-controlled mouse system using 468-point facial landmark detection — fully on-device, zero cloud dependency, built for accessibility.
+
+| Feature | Detail |
+|---|---|
+| Face Tracking | MediaPipe 468-point landmark mesh at 30+ FPS |
+| Gesture Control | Head movement → precise cursor movement mapping |
+| Click Modes | Dwell-click, blink-click, gesture-click |
+| Privacy | Fully local — no data leaves the device |
+
+**Key Features**
+- 468-point facial landmark tracking in real-time
+- Configurable gesture-to-action mapping
+- Works on standard webcam — no special hardware
+- Accessibility-first design for motor-impaired users
+
+<p>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/MediaPipe-0d1117?style=flat-square&logo=google&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/PyAutoGUI-0d1117?style=flat-square&logoColor=00ff88"/>
+</p>
+
+[![View Repository](https://img.shields.io/badge/%5B_VIEW_REPOSITORY_%5D-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rohan1252030019-netizen/headmouse)
+
+---
+
+### `PROJECT_06` — SCANBOOK
+
+**`[ AI DOCUMENT INTELLIGENCE PLATFORM ]`**
+
+> Intelligent document processing platform that extracts, structures and enables semantic Q&A over scanned documents using OCR and LLMs.
+
+| Component | Capability |
+|---|---|
+| Document Ingestion | PDF, images, handwritten note support |
+| OCR Pipeline | Tesseract + LLM structured extraction |
+| Semantic Q&A | RAG-powered document querying |
+| Export Engine | JSON, CSV, database export |
+
+**Key Features**
+- Multi-format document ingestion and parsing
+- LLM-powered structured data field extraction
+- Semantic Q&A over entire document collections
+- Exportable structured outputs
+
+<p>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/Tesseract-0d1117?style=flat-square&logoColor=00ff88"/>
+</p>
+
+[![View Repository](https://img.shields.io/badge/%5B_VIEW_REPOSITORY_%5D-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rohan1252030019-netizen/scanbook)
+
 </div>
 
 ---
 
-## `> trophies`
+## `[05]` UPCOMING OPERATIONS
 
 <div align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=rohan1252030019-netizen&theme=darkhub&no-frame=true&column=7&margin-w=8" />
+
+| Project | Objective | Status |
+|---|---|---|
+| `SOC_DASHBOARD` | Real-time threat monitoring & incident management platform | `IN DEVELOPMENT` |
+| `AI_SECURITY_COPILOT` | LLM-powered autonomous Tier-1 SOC analyst agent | `DESIGNING` |
+| `THREAT_INTEL_PLATFORM` | OSINT aggregation, IOC correlation & threat actor mapping | `RESEARCH` |
+| `MALWARE_SANDBOX` | Dynamic behavioral analysis environment with auto-reporting | `RESEARCH` |
+
 </div>
 
 ---
 
-## `> contributions`
+## `[06]` SYSTEM METRICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohan1252030019-netizen&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=SYSTEM+STATISTICS&title_color=00ff88&icon_color=00d4ff&text_color=ffffff&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan1252030019-netizen&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00d4ff&fire=00ff88&currStreakLabel=00ff88&sideLabels=00d4ff&dates=888888" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan1252030019-netizen&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=8&title_color=00ff88&text_color=ffffff&bg_color=0d1117&custom_title=CODE+DISTRIBUTION" />
+
+</div>
+
+---
+
+## `[07]` CONTRIBUTION GRAPH
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohan1252030019-netizen&bg_color=0d1117&color=00ff88&line=00d4ff&point=00ff88&area=true&area_color=00ff4420&hide_border=true&custom_title=ACTIVITY+TIMELINE" />
+</div>
+
+---
+
+## `[08]` TROPHIES
+
+<div align="center">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=rohan1252030019-netizen&theme=matrix&no-frame=true&column=7&margin-w=8&title_color=00ff88" />
+</div>
+
+---
+
+## `[09]` CONTRIBUTION SNAKE
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohan1252030019-netizen/rohan1252030019-netizen/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohan1252030019-netizen/rohan1252030019-netizen/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rohan1252030019-netizen/rohan1252030019-netizen/output/github-contribution-grid-snake-dark.svg" width="98%"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/rohan1252030019-netizen/rohan1252030019-netizen/output/github-contribution-grid-snake-dark.svg" width="98%"/>
   </picture>
 </div>
 
 ---
 
-## `> github_metrics`
+## `[10]` GITHUB METRICS
 
 <div align="center">
-  <img width="49%" src="https://metrics.lecoq.io/rohan1252030019-netizen?template=classic&base=header%2C+activity%2C+community%2C+repositories%2C+metadata&config.timezone=Asia%2FKolkata" />
+  <img width="49%" src="https://metrics.lecoq.io/rohan1252030019-netizen?template=classic&base=header%2C+activity%2C+community%2C+repositories%2C+metadata&config.timezone=Asia%2FKolkata&config.padding=6" />
   <img width="49%" src="https://metrics.lecoq.io/rohan1252030019-netizen?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata" />
 </div>
 
 ---
 
-## `> featured_projects`
-
-<div align="center">
-
-### 🛡️ Immunex — AI Banking Fraud Detection
-
-> *Enterprise-grade AI system for real-time fraud detection and automated document verification in banking workflows.*
-
-| Feature | Detail |
-|---|---|
-| Fraud Scoring | Real-time transaction analysis using ensemble ML models |
-| Document Verification | Forgery detection with computer vision (CNN + OCR) |
-| Compliance Dashboard | Explainable AI for compliance officers |
-| API Security | RESTful API with JWT authentication + rate limiting |
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
-
-[![Demo](https://img.shields.io/badge/Live%20Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://immunex.rohan1252030019-netizen.dev)
-[![Repository](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan1252030019-netizen/immunex)
-
----
-
-### 🤖 Sentinel Swarm AI — Multi-Agent Security Intelligence
-
-> *Autonomous multi-agent AI system for coordinated threat detection, vulnerability scanning and incident response.*
-
-| Feature | Detail |
-|---|---|
-| Agent Swarm | Specialized agents: Recon, Analysis, Response, Reporting |
-| Network Monitoring | Continuous anomaly detection across endpoints |
-| CVE Correlation | Automated vulnerability correlation and remediation |
-| Forensic Reports | Incident timeline reconstruction and documentation |
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
-
-[![Demo](https://img.shields.io/badge/Live%20Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://sentinel.rohan1252030019-netizen.dev)
-[![Repository](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan1252030019-netizen/sentinel-swarm-ai)
-
----
-
-### 🔧 RAGSmith — Production RAG Evaluation Framework
-
-> *End-to-end framework for building, testing and benchmarking RAG pipelines with LLM-as-judge evaluation.*
-
-| Feature | Detail |
-|---|---|
-| Pipeline Builder | Modular RAG with customizable chunking, embedding, retrieval |
-| Evaluation Suite | RAGAS metrics, hallucination detection, faithfulness scores |
-| Benchmarking | Compare embedding models and vector stores side-by-side |
-| CI/CD Integration | REST API + CLI for automated pipeline testing |
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/ChromaDB-6C63FF?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-</p>
-
-[![Demo](https://img.shields.io/badge/Live%20Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ragsmith.rohan1252030019-netizen.dev)
-[![Repository](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan1252030019-netizen/ragsmith)
-
----
-
-### 🧪 KernelLab — Linux Kernel Security Research Environment
-
-> *Containerized Linux kernel security research and exploit development environment for vulnerability research and OS internals study.*
-
-| Feature | Detail |
-|---|---|
-| Debug Environment | Pre-configured GDB, QEMU, pwndbg setup |
-| Exploit Templates | Common kernel vulnerability class templates |
-| Mitigation Analysis | Automated bypass analysis (KASLR, SMEP, SMAP) |
-| CVE Writeups | Documented kernel CVE reproduction and analysis |
-
-<p align="center">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-</p>
-
-[![Repository](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan1252030019-netizen/kernellab)
-
----
-
-### 🖱️ HeadMouse — Computer Vision Accessibility Tool
-
-> *Real-time head-gesture-controlled mouse using facial landmark detection — built for hands-free computing and accessibility.*
-
-| Feature | Detail |
-|---|---|
-| Face Tracking | 468-point facial landmark tracking at 30+ FPS |
-| Gesture Mapping | Customizable gesture-to-action configuration |
-| Click Modes | Dwell-click and blink-click support |
-| Privacy | Fully on-device — zero cloud dependency |
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=flat-square&logoColor=white"/>
-</p>
-
-[![Demo](https://img.shields.io/badge/Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/headmouse-demo)
-[![Repository](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan1252030019-netizen/headmouse)
-
----
-
-### 📚 ScanBook — AI Document Intelligence Platform
-
-> *Intelligent document processing platform that extracts, structures and queries information from scanned documents using LLMs and OCR.*
-
-| Feature | Detail |
-|---|---|
-| Document Ingestion | Multi-format support: PDF, images, handwritten notes |
-| Data Extraction | OCR + LLM-powered structured field extraction |
-| Semantic Q&A | RAG-powered question answering over document collections |
-| Export | JSON, CSV, and structured database export |
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tesseract-3776AB?style=flat-square&logoColor=white"/>
-</p>
-
-[![Demo](https://img.shields.io/badge/Live%20Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://scanbook.rohan1252030019-netizen.dev)
-[![Repository](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan1252030019-netizen/scanbook)
-
-</div>
-
----
-
-## `> upcoming_projects`
-
-<div align="center">
-
-| Project | Description | Status |
-|---|---|---|
-| 🖥️ **SOC Dashboard** | Real-time threat monitoring & incident management platform | `In Development` |
-| 🧠 **AI Security Copilot** | LLM-powered autonomous security analyst for tier-1 SOC tasks | `Designing` |
-| 🌐 **Threat Intelligence Platform** | Automated OSINT aggregation, IOC correlation & threat actor mapping | `Research` |
-| 🦠 **Malware Analysis Sandbox** | Dynamic behavioral analysis environment with automated reporting | `Research` |
-
-</div>
-
----
-
-## `> competitive_coding`
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**LeetCode**
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rohan1252030019-netizen)
-
-Consistent DSA practice<br/>
-Focus: Arrays · Graphs · DP
-
-</td>
-<td align="center" width="33%">
-
-**Codeforces**
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rohan1252030019-netizen)
-
-Competitive Programming<br/>
-Rating: Pupil → Specialist
-
-</td>
-<td align="center" width="33%">
-
-**CodeChef**
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/rohan1252030019-netizen)
-
-Monthly Challenges<br/>
-Long & Cook-Off Rounds
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## `> security_platforms`
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**TryHackMe**
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/rohan1252030019-netizen)
-
-Active in top percentile<br/>
-Paths: SOC Analyst · Jr Pentester · OWASP Top 10
-
-</td>
-<td align="center" width="50%">
-
-**HackTheBox**
-
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/rohan1252030019-netizen)
-
-Active machine solver<br/>
-Focus: Web · Linux · Active Directory
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## `> certifications`
-
-<div align="center">
-
-| Certification | Issuer | Status |
-|---|---|---|
-| **Google Cybersecurity Certificate** | Google / Coursera | `Completed` |
-| **Machine Learning Specialization** | DeepLearning.AI / Stanford | `Completed` |
-| **Introduction to Cybersecurity** | Cisco NetAcad | `Completed` |
-| **AWS Cloud Practitioner** | Amazon Web Services | `In Progress` |
-| **OSCP** | Offensive Security | `Roadmap 2026` |
-| **Google Cloud Professional ML Engineer** | Google Cloud | `Roadmap 2026` |
-
-</div>
-
----
-
-## `> open_source`
-
-<div align="center">
-
-> I believe in building in public. Every project I ship is open-source by default.
-
-| Contribution | Approach |
-|---|---|
-| **Own Projects** | Full open-source with MIT License, issue templates, and contributor guides |
-| **Bug Fixes** | Actively fix bugs in tools I use daily |
-| **Documentation** | Improve docs for AI/ML & Security OSS projects |
-| **Code Reviews** | Review PRs in projects I contribute to regularly |
-
-</div>
-
----
-
-## `> hackathons`
-
-<div align="center">
-
-| Event | Project | Result |
-|---|---|---|
-| **Internal Hackathon — VIT Pune** | HeadMouse (Accessibility Tool) | `Finalist` |
-| **AI Build Challenge** | RAGSmith | `Participant` |
-| **Security CTF** | Various Security Challenges | `Active Participant` |
-
-> Building toward national participation: SIH, HackWithInfy, Google Solution Challenge 2026.
-
-</div>
-
----
-
-## `> learning_roadmap_2026`
-
-```
-Q1 2026  ██████████░░░░  AWS Security Specialty + OSCP Prep
-Q2 2026  ████████░░░░░░  LLM Agent Frameworks (LangGraph, AutoGen)
-Q3 2026  ██████░░░░░░░░  Malware Analysis & Reverse Engineering
-Q4 2026  ████░░░░░░░░░░  Research Paper Submission + OSCP Attempt
-```
-
-<details>
-<summary><b>Detailed Learning Plan</b></summary>
-<br>
-
-**AI & ML**
-- [ ] Advanced RAG patterns (HyDE, RAPTOR, ColBERT)
-- [ ] LLM Fine-tuning (LoRA, QLoRA, DPO)
-- [ ] MLOps: MLflow, Weights & Biases, Model Serving
-- [ ] Multimodal Models (Vision + Language)
-
-**Cybersecurity**
-- [ ] OSCP certification
-- [ ] Malware reverse engineering (x86, x64)
-- [ ] Cloud security (AWS, GCP red team)
-- [ ] Active Directory attacks and defenses
-
-**Engineering**
-- [ ] System design for distributed systems
-- [ ] Kubernetes and container orchestration
-- [ ] Rust programming for systems security
-
-</details>
-
----
-
-## `> goals_2026`
+## `[11]` OBJECTIVES — 2026
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                     GOALS FOR 2026                          │
-├─────────────────────────────────────────────────────────────┤
-│  ◆  Land a role at Google, Microsoft, NVIDIA or a top AI   │
-│     startup in AI Engineering or Security                   │
-│                                                             │
-│  ◆  Achieve OSCP certification                              │
-│                                                             │
-│  ◆  Publish 1+ research paper in AI Security               │
-│                                                             │
-│  ◆  Reach 1000+ GitHub contributions                        │
-│                                                             │
-│  ◆  Win a national or international hackathon               │
-│                                                             │
-│  ◆  Build and ship 4+ open-source production tools         │
-│                                                             │
-│  ◆  Become a GitHub Campus Expert                          │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│               MISSION OBJECTIVES — 2026                              │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  [TARGET_01]  Land AI/Security role at Google, Microsoft,            │
+│               NVIDIA, Palo Alto Networks or top AI startup           │
+│                                                                      │
+│  [TARGET_02]  Achieve OSCP certification                             │
+│                                                                      │
+│  [TARGET_03]  Ship 4+ production open-source security tools          │
+│                                                                      │
+│  [TARGET_04]  Publish research in AI Security domain                 │
+│                                                                      │
+│  [TARGET_05]  Win a national/international hackathon                 │
+│                                                                      │
+│  [TARGET_06]  Reach 1000+ GitHub contributions                       │
+│                                                                      │
+│  [TARGET_07]  Become GitHub Campus Expert                            │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## `> achievements`
+## `[12]` ESTABLISH CONTACT
 
 <div align="center">
 
-| Achievement | Details |
-|---|---|
-| **B.Tech CSE AI/ML** | Vishwakarma Institute of Technology, Pune |
-| **Built Immunex** | AI-powered banking fraud detection, deployed end-to-end |
-| **Multi-Agent Systems** | Designed and shipped Sentinel Swarm AI architecture |
-| **RAG Expert** | Built RAGSmith — a production RAG evaluation framework |
-| **Security Research** | KernelLab — Linux kernel security research environment |
-| **Accessibility** | HeadMouse — hands-free computing for the accessibility community |
-
-</div>
-
----
-
-## `> quote`
-
-<div align="center">
-
-> *"The best engineers don't just write code — they build systems that solve real problems and secure the world that runs on them."*
->
-> — Rohan Kokatare
-
-</div>
-
----
-
-## `> contact`
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-**Portfolio**<br/>
-[rohan1252030019-netizen.dev](https://rohan1252030019-netizen.dev)
-
-</td>
-<td align="center">
-
-**LinkedIn**<br/>
-[linkedin.com/in/rohan1252030019-netizen](https://linkedin.com/in/rohan1252030019-netizen)
-
-</td>
-<td align="center">
-
-**Email**<br/>
-[rohan.1252030019@vit.edu](mailto:rohan.1252030019@vit.edu)
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**TryHackMe**<br/>
-[tryhackme.com/p/rohan1252030019-netizen](https://tryhackme.com/p/rohan1252030019-netizen)
-
-</td>
-<td align="center">
-
-**HackTheBox**<br/>
-[hackthebox.com/profile](https://app.hackthebox.com/profile/rohan1252030019-netizen)
-
-</td>
-<td align="center">
-
-**Instagram**<br/>
-[instagram.com/rohan.kokatare](https://instagram.com/rohan.kokatare)
-
-</td>
-</tr>
-</table>
+```
+┌──────────────────────────────────────────────────────────┐
+│              SECURE COMMUNICATION CHANNELS               │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  GitHub    github.com/rohan1252030019-netizen            │
+│  LinkedIn  linkedin.com/in/rohan-kokatare                │
+│  Email     rohan.1252030019@vit.edu                      │
+│  Instagram @chiku_ronnnn                                 │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
 
 <br/>
 
-**Open to:** Full-time Roles · Internships · Research Collaborations · Open Source · Freelance Projects
+<a href="https://github.com/rohan1252030019-netizen">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff88"/>
+</a>
+<a href="https://www.linkedin.com/in/rohan-kokatare/">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff"/>
+</a>
+<a href="mailto:rohan.1252030019@vit.edu">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88"/>
+</a>
+<a href="https://www.instagram.com/chiku_ronnnn/">
+  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ff006e"/>
+</a>
+
+<br/><br/>
+
+**Open to:** Full-time Roles · Internships · Research · Open Source · CTF Teams
 
 </div>
 
 ---
 
-## `> support`
-
 <div align="center">
 
-If my work has helped you, a star on any repo means a lot.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:001a0d,50:0d1117,75:001a0d,100:00ff4110&height=120&section=footer&fontColor=00ff88" />
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/rohan1252030019-netizen)
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/rohan1252030019-netizen)
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,30:16213e,60:1a1a2e,100:0d1117&height=120&section=footer" />
-
-**Rohan Kokatare** · AI Engineer · Cybersecurity Engineer · Full Stack Developer
-
-*Built with purpose. Secured by design. Shipped with pride.*
+```
+[ ROHAN KOKATARE ]  ·  AI Engineer  ·  Cybersecurity Engineer  ·  Ethical Hacker
+      "Securing the future, one exploit at a time."
+```
 
 </div>
