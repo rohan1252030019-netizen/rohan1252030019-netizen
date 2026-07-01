@@ -29,6 +29,9 @@
 <a href="https://www.linkedin.com/in/rohan-kokatare/">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff&color=0d1117" />
 </a>
+<a href="https://rohanportfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff88&color=0d1117" />
+</a>
 <a href="https://www.instagram.com/chiku_ronnnn/">
   <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ff006e&color=0d1117" />
 </a>
@@ -547,10 +550,11 @@ class RohanKokatare:
 │              SECURE COMMUNICATION CHANNELS               │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
-│  GitHub    github.com/rohan1252030019-netizen            │
-│  LinkedIn  linkedin.com/in/rohan-kokatare                │
-│  Email     rohan.1252030019@vit.edu                      │
-│  Instagram @chiku_ronnnn                                 │
+│  GitHub     github.com/rohan1252030019-netizen           │
+│  LinkedIn   linkedin.com/in/rohan-kokatare               │
+│  Portfolio  rohanportfolio.vercel.app                    │
+│  Email      rohan.1252030019@vit.edu                     │
+│  Instagram  @chiku_ronnnn                                │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
@@ -562,6 +566,9 @@ class RohanKokatare:
 </a>
 <a href="https://www.linkedin.com/in/rohan-kokatare/">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff"/>
+</a>
+<a href="https://rohanportfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff88"/>
 </a>
 <a href="mailto:rohan.1252030019@vit.edu">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88"/>
